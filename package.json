@@ -1,0 +1,26 @@
+{
+  "name": "chat_service_npm4m2",
+  "version": "1.0.0",
+  "description": "A simple chat service",
+  "main": "app.js",
+  "dependencies": {
+    "express": "3.0.x",
+    "socket.io": "0.9.x"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/git4m2/MCSD_70-480_Chpt10_Ex01_chat_service.git"
+  },
+  "author": "Glenn Johnson",
+  "license": "MIT",
+  "private": true,
+  "bugs": {
+    "url": "https://github.com/git4m2/MCSD_70-480_Chpt10_Ex01_chat_service/issues"
+  },
+  "homepage": "https://github.com/git4m2/MCSD_70-480_Chpt10_Ex01_chat_service"
+}
