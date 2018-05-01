@@ -3,8 +3,13 @@ All  changes to this project will be documented in this file.
 <br/><br/>
 
 ## [Unreleased]
-- Need to create the client-side code.
+- N/A
 <br/><br/>
+
+## [v2.0.0] - 2018-05-01
+### Added Chat Client
+- Added "Chat_Client" public/scripts.
+- Created the "index.html" client-side code.
 
 ## [v1.0.0] - 2018-02-26
 ### Base

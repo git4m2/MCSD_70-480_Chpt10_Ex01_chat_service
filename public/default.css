@@ -1,0 +1,23 @@
+﻿body {
+}
+
+.userContainer{
+    float: left;
+    width: 200px;
+    height: 300px;
+    border-right: 1px solid black;
+    padding: 10px;
+    overflow: auto;
+}
+
+.conversationContainer{
+    float: left;
+    width: 400px;
+    height: 300px;
+    padding: 10px;
+    overflow: auto;
+}
+
+#data{
+    width: 200px;
+}

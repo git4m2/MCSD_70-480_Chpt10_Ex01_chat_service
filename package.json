@@ -1,5 +1,5 @@
 {
-  "name": "chat_service_npm4m2",
+  "name": "Chat_Service_npm4m2",
   "version": "1.0.0",
   "description": "A simple chat service",
   "main": "app.js",
@@ -14,13 +14,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/git4m2/MCSD_70-480_Chpt10_Ex01_chat_service.git"
+    "url": "https://github.com/git4m2/MCSD_70-480_Chpt10_Ex01_Chat_Service.git"
   },
   "author": "Glenn Johnson",
   "license": "MIT",
   "private": true,
   "bugs": {
-    "url": "https://github.com/git4m2/MCSD_70-480_Chpt10_Ex01_chat_service/issues"
+    "url": "https://github.com/git4m2/MCSD_70-480_Chpt10_Ex01_Chat_Service/issues"
   },
-  "homepage": "https://github.com/git4m2/MCSD_70-480_Chpt10_Ex01_chat_service"
+  "homepage": "https://github.com/git4m2/MCSD_70-480_Chpt10_Ex01_Chat_Service"
 }
