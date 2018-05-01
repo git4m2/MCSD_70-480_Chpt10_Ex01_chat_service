@@ -25,3 +25,23 @@ Node command prompt displays...
 Listening on port: 8080
 ```
 
+#### Step 3
+```
+Open a browser and navigate to the following URL:
+http://localhost:8080
+
+You should see the chat page and a pop-up prompt for your username.
+Enter a name and click OK.
+```
+
+#### Step 4
+```
+Repeat Step 3.
+```
+
+#### Step 5
+```
+Type a message in the first browser.
+Type a response message in the second browser.
+You should see the results in both browsers.
+```

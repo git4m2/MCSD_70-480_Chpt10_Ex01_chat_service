@@ -6,6 +6,10 @@ All  changes to this project will be documented in this file.
 - N/A
 <br/><br/>
 
+## [v2.0.1] - 2018-05-01
+### Modified README.md
+- Added instructions for "Chat_Client" usage.
+
 ## [v2.0.0] - 2018-05-01
 ### Added Chat Client
 - Added "Chat_Client" public/scripts.
